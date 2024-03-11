@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212735036153",
+    "project_id": "fir-authemail-dd578",
+    "storage_bucket": "fir-authemail-dd578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212735036153:android:cf7a49601fc567dcadf028",
+        "android_client_info": {
+          "package_name": "com.oriensolutions.firebaseauthwithemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJz60MGCtBpv7XpWPdJHWLIJ8AtrUb-mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
